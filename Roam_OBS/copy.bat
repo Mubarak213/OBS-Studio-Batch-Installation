@@ -1,0 +1,1 @@
+xcopy "C:\ProgramData\OBS_STUDIO\OBS_STUDIO.txt" "%APPDATA%\OBS_STUDIO\" 
